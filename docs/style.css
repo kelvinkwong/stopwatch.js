@@ -14,5 +14,6 @@ div {
 
 #time {
   font-size: 2000%;
+  font-family: Consolas,Menlo,"courier new",monospace;
   color: white;
 }
